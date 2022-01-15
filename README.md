@@ -1,4 +1,4 @@
-## ◇────── DRAGON VPS  MANAGER ───────◇
+## ◇──────  King SSH MANAGER  ───────◇
 
 ㅤ
 <p align="left">
