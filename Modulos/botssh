@@ -63,7 +63,7 @@ fun_botOnOff() {
         fun_bar 'fun_bot1'
         [[ $(ps x | grep "bot_plus" | grep -v grep | wc -l) != '0' ]] && echo -e "\n\033[1;32m❤️ KingSSH MANAGER TELEGRAM BOT ENABLED! ❤️\033[0m" || echo -e "\n\033[1;31m◇ MISTAKE! REANALYZE YOUR INFORMATION\033[0m"
         sleep 2
-        autoexec
+        menu
     } || {
         clear
         echo -e "\033[1;32m❤️ㅤKingSSH MANAGER TELEGRAM BOT STOPPING... ❤️\033[0m\n"
